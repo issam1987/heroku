@@ -2,5 +2,4 @@
 <?php
 echo 'test heroku !!';
 ?>
-<h3>by Ghorbali Issam</h3>
-<script>alert('test');</script>
+<h3>by Ghorbali Issam **</h3> 
